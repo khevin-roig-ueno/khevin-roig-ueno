@@ -16,8 +16,6 @@
 
 <hr>
 
-![](https://github-readme-stats.vercel.app/api?username=khevin-roig-ueno&count_private=true&show_icons=true&theme=transparent&custom_title='Mis%20Stats%20de%20GitHub')
-
 <!--
 **khevin-roig-ueno/khevin-roig-ueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
